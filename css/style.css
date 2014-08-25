@@ -1,0 +1,54 @@
+.nav td a {
+	text-decoration: none;
+	color: #fff; 
+	padding: 7px;
+	padding-right: 2px;
+}
+
+.nav td  a:hover {
+	 background-color: #fff; 
+	 color: green;
+	 padding: 7px;
+	 padding-right: 2px;
+	 border-radius: 7px;
+}
+
+.btndelete {
+	text-decoration: none;
+	background-color: #ac2925;
+	color: #fff;
+	padding: 5px;
+	border-radius: 4px;
+}
+
+
+
+.btndetails {
+	text-decoration: none;
+	background-color: #285e8e;
+	color: #fff;
+	padding: 5px;
+	border-radius: 4px;
+}
+
+.btnedit {
+	text-decoration: none;
+	background-color: #006600;
+	color: #fff;
+	padding: 5px;
+	border-radius: 4px;
+}
+
+.dashboard-table {
+	margin-left: 50px;
+}
+
+.readmore {
+	background-color: green; 
+	color: #FFFFFF; 
+	padding: 5px;
+	text-decoration: none;
+	border-radius: 4px;
+}
+
+
